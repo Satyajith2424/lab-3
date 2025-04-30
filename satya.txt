@@ -1,1 +1,2 @@
 Using int main () will fix the error 
+and it will do it
